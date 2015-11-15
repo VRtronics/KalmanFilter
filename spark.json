@@ -1,0 +1,7 @@
+{
+  "name": "Spark-KalmanFilter",
+  "author": "Kristian Lauszus (TKJ Electronics) <kristianl@tkjelectronics.com>",
+  "license": "GNU",
+  "version": "0.0.6",
+  "description": "Spark Library to work with Kalman Filters"
+}
