@@ -1,5 +1,5 @@
 {
-  "name": "Spark-KalmanFilter",
+  "name": "Kalman",
   "author": "Kristian Lauszus (TKJ Electronics) <kristianl@tkjelectronics.com>",
   "license": "GNU",
   "version": "0.0.6",
